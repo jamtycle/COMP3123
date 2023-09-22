@@ -1,0 +1,11 @@
+{
+  "name": "lab-exercise-2",
+  "module": "lab2.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
