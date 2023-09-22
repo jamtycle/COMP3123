@@ -1,2 +1,3 @@
-# COMP3123
-COMP3123 labs
+# GBC COMP 3123 (Full Stack dev) Labs
+
+- Made with love🧡 by Bruno Ramirez (101380203)
