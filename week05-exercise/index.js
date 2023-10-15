@@ -1,6 +1,5 @@
 const fs = require("fs");
 const express = require("express");
-const path = require("path");
 
 
 const app = express();
@@ -17,7 +16,6 @@ router.get("/home", (req, res) => {
     res.sendFile("home.html", {
         root: "./views"
     });
-    // res.send("./home.html");
 });
 
 /*
